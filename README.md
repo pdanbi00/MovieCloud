@@ -13,7 +13,7 @@
 - Django : articles App, movies App
 - Vue : 메인 페이지, 검색 페이지, 영화 상세정보 조회, youtube api를 이용한 예고편 조회, 워드 클라우드 생성 관련 View, components 및 store 작성
 
-### 기술 스
+### 기술 스택
 🛠 **Backend**
   <br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 
-- 🛠 **Frontend**
+🛠 **Frontend**
   <br>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 
-- 🛠 **Collaboration**
+🛠 **Collaboration**
   <br>
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
