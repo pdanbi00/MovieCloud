@@ -4,7 +4,7 @@
 
 ### 팀장 : 박단비
 
-- DJango : accounts App
+- DJango : accounts App, articles App
 - user, movies, articles, comments json 데이터 생성
 - Vue : 로그인, 로그아웃, 회원가입, 게시글 생성 및 조회, 댓글 생성, 프로필 조회ofile 관련 View, components 및 store 작성
 
